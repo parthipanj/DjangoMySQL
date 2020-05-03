@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c20c80f1-fae8-4253-b7d1-9ae9042d7038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myservice/polls/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myservice/polls/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myservice/polls/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myservice/polls/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myservice/polls/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/PJOTHIRA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myservice/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myservice/polls/templates/polls/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/myservice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/myservice/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/myservice/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/myservice/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -44,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitLab/Vplayed/Translate  Helper" />
@@ -101,26 +91,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1588343448457" />
+    <state x="402" y="0" key="#views" timestamp="1588493494302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="0" key="#views/0.0.1366.738@0.0.1366.738" timestamp="1588493494302" />
     <state x="573" y="214" key="FileChooserDialogImpl" timestamp="1588401126228">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="573" y="214" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588401126228" />
-    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1588423623539">
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1588495257542">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588423623539" />
-    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1588423623538">
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588495257542" />
+    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1588495257542">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588423623538" />
-    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1588423623538">
+    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588495257542" />
+    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1588495257541">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588423623538" />
-    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1588423623538">
+    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588495257541" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1588495257542">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588423623538" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588495257542" />
     <state width="1345" height="294" key="GridCell.Tab.1.bottom" timestamp="1588347781656">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
