@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c20c80f1-fae8-4253-b7d1-9ae9042d7038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myservice/polls/static/polls/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myservice/polls/static/polls/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myservice/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myservice/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/myservice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/myservice/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +35,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/myservice/polls/static/polls/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myservice/templates/admin" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice\templates\admin" />
       <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice\polls\static\polls\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice" />
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice\myservice" />
       <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL" />
     </key>
   </component>
@@ -104,22 +107,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="573" y="214" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588401126228" />
-    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1588525044273">
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1588528411371">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588525044273" />
-    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1588525044273">
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588528411371" />
+    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1588528411370">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588525044273" />
-    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1588525044273">
+    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588528411370" />
+    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1588528411370">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588525044273" />
-    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1588525044273">
+    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588528411370" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1588528411371">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588525044273" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588528411371" />
     <state width="1345" height="294" key="GridCell.Tab.1.bottom" timestamp="1588347781656">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
