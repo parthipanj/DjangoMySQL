@@ -1,21 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c20c80f1-fae8-4253-b7d1-9ae9042d7038" name="Default Changelist" comment="" />
+    <list default="true" id="c20c80f1-fae8-4253-b7d1-9ae9042d7038" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myservice/templates/admin/base_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/myservice/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/myservice/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myservice/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myservice/polls/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bJDxzQ1ne233nPn6xxGiwX4Cyv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myservice/templates/admin" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice\templates\admin" />
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice\polls\static\polls\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice" />
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL\myservice\myservice" />
+      <recent name="C:\Users\pjothira\Work\Projects\GitHub\Django_MySQL" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Django_MySQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myservice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myservice/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,9 +91,69 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="11" key="SettingsEditor" timestamp="1588341718320">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588343448457">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588341718320" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1588343448457" />
+    <state x="442" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588524476856">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="442" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1588524476856" />
+    <state x="402" y="0" key="#views" timestamp="1588493494302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="0" key="#views/0.0.1366.738@0.0.1366.738" timestamp="1588493494302" />
+    <state x="573" y="214" key="FileChooserDialogImpl" timestamp="1588401126228">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="573" y="214" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1588401126228" />
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1588528411371">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588528411371" />
+    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1588528411370">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588528411370" />
+    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1588528411370">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588528411370" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1588528411371">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588528411371" />
+    <state width="1345" height="294" key="GridCell.Tab.1.bottom" timestamp="1588347781656">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="294" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588347781656" />
+    <state width="1345" height="294" key="GridCell.Tab.1.center" timestamp="1588347781655">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="294" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1588347781655" />
+    <state width="1345" height="294" key="GridCell.Tab.1.left" timestamp="1588347781655">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="294" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1588347781655" />
+    <state width="1345" height="294" key="GridCell.Tab.1.right" timestamp="1588347781656">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="294" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1588347781656" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1588361435314">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1588361435314" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588400981458">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1588400981458" />
+    <state x="254" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588344116025">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="254" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1588344116025" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1588505967981">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1588505967981" />
   </component>
 </project>
